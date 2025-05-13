@@ -31,7 +31,6 @@ const Page = () => {
       <CustomButton label='testerre' onClick={handleClick}></CustomButton>
       </div>
     </div>
-    
   );
 };
 
